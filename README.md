@@ -51,8 +51,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Purush-5268/purushotham-portfolio.git
-cd purushotham-portfolio
+git clone https://github.com/Purush-5268/Purush-Portfolio.git
+cd Purush-Portfolio
 
 # Install dependencies
 npm install
